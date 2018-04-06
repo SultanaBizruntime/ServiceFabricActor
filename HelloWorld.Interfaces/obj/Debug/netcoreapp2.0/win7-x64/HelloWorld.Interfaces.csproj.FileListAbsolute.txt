@@ -1,0 +1,6 @@
+D:\Bizruntime\MyApplication1\HelloWorld.Interfaces\bin\Debug\netcoreapp2.0\win7-x64\HelloWorld.Interfaces.deps.json
+D:\Bizruntime\MyApplication1\HelloWorld.Interfaces\bin\Debug\netcoreapp2.0\win7-x64\HelloWorld.Interfaces.dll
+D:\Bizruntime\MyApplication1\HelloWorld.Interfaces\obj\Debug\netcoreapp2.0\win7-x64\HelloWorld.Interfaces.csprojResolveAssemblyReference.cache
+D:\Bizruntime\MyApplication1\HelloWorld.Interfaces\obj\Debug\netcoreapp2.0\win7-x64\HelloWorld.Interfaces.csproj.CoreCompileInputs.cache
+D:\Bizruntime\MyApplication1\HelloWorld.Interfaces\obj\Debug\netcoreapp2.0\win7-x64\HelloWorld.Interfaces.AssemblyInfoInputs.cache
+D:\Bizruntime\MyApplication1\HelloWorld.Interfaces\obj\Debug\netcoreapp2.0\win7-x64\HelloWorld.Interfaces.AssemblyInfo.cs
